@@ -1,6 +1,5 @@
 package com.example.HackaRec.Pedido.Domain;
 
-<<<<<<< HEAD
 import jakarta.persistence.ElementCollection;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -21,7 +20,4 @@ public class Pedido {
 
     @ElementCollection
     private List<String> productos;
-=======
-public class Pedido {
->>>>>>> d78f3b0557200144d602095a66a57ccda75cb149
 }
